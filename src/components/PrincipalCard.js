@@ -88,7 +88,12 @@ forecastDate9 = forecast.list[3].dt_txt.substring(8, 10) + '/' + forecast.list[1
                                 
                             </div>
 
+                            
                          </div>
+                         <div>
+                                <button className='btn btn-primary'> Change to °F</button>
+                            </div>
+
                      </div>
                  </div>
              </div>
