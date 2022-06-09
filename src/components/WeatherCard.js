@@ -72,7 +72,8 @@ const getLocation = async (loc) => {
     showData = {show}
     loadingData = {loading}
     weather = {weather} 
-    forecast = {forecast}/>
+    forecast = {forecast}
+    location = {location}/>
 </React.Fragment>
 
     </div>
